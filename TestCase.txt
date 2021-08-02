@@ -1,0 +1,37 @@
+Test case1
+Title: Checking the possibility of registering a new account with an incorrect email
+Step to reprodus
+1. Go to https://github.com/
+2. Click "sign in" button
+3  Click "Create an account" link
+3.  In the field for entering an email, enter an incorrect email.(myMail)
+Expected result : "Email is invalid or already taken" - message was displayed
+
+Test case2
+Title: Checking the display of tariff plans.
+1. Go to https://github.com/
+2. Scrol in to view  "Pricing" link
+3. Click "Pricing" link
+Expected result : The transition to the page is completed (https://github.com/pricing)
+
+Test case3
+Title: Checking the possibility of opening information about the impact of the transition to other tariffs.
+1. Go to https://github.com/
+2. Scrol in to view  "Pricing" link
+3. Click "Pricing" link
+4. Click "Learn more about managing your GitHub plan" link
+Expected result : "How does upgrading or downgrading affect the billing process?" was displayed
+
+Test case4
+Title: Checking the possibility of going to the store and viewing all the products.
+1. Go to https://github.com/
+2. Click "Shop" link
+3. Click "View all" button
+Expected result : The site "https://thegithubshop.com/collections/best-sellers" with all the goods was opened.
+
+Test case5
+Title: Checking the possibility of switching to the GitHub Stars program
+1. Go to https://github.com/
+2. Click "Atom" link
+2. Click "Documentation" link
+Expected result : The site "https://atom.io/docs" and text - "Atom Documentation"
