@@ -1,2 +1,3 @@
 # WebdriverIO
- Simpl progect on JS using webdriverio
+ 
+ Simple project in JS using webdriver
